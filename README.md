@@ -1,12 +1,12 @@
-<!-- Banner hoặc ảnh cá nhân -->
+<!-- Banner or personal image -->
 <p align="center">
   <img src="./images/banner.png" alt="banner">
 </p>
 
-## 🚀 About me
+## 🚀 About Me
 
-Xin chào! Mình là **Đặng Nguyễn Tiền Hậu**, một lập trình viên đam mê công nghệ với kinh nghiệm phát triển **Website**, Internet of Things và ứng dụng trên thiết bị di động.  
-Mình khát khao được học hỏi, cọ xát với các dự án ở những cấp độ đa dạng để trở thành một **Fullstack Developer** chuyên nghiệp, mang lại các giải pháp công nghệ tối ưu và thân thiện cho xã hội.
+Hello! I’m **Dang Nguyen Tien Hau**, a passionate developer with experience in **Web Development**, Internet of Things, and Mobile Applications.  
+With a solid technical foundation, strong self-learning skills, and hands-on experience from multiple personal projects, I can quickly adapt and contribute effectively to any team. I believe in delivering value from day one while continuously improving my skills to achieve greater impact over time.
 
 <p align="center">
   <img src="./images/startup/image_1.png" alt="" width="24%" style="border:1px solid #ccc; border-radius:8px;">
@@ -17,9 +17,9 @@ Mình khát khao được học hỏi, cọ xát với các dự án ở những
 
 ---
 
-## 🛠 Kỹ năng & Công nghệ
+## 🛠 Skills & Technologies
 
-| **Ngôn ngữ lập trình**       | **Frontend**               | **Backend**      | **Database & Deploy** | **IoT & AI**                                  | **Other**                        |
+| **Programming Languages**    | **Frontend**                | **Backend**      | **Database & Deploy** | **IoT & AI**                                  | **Other**                        |
 |------------------------------|-----------------------------|------------------|-----------------------|-----------------------------------------------|-----------------------------------|
 | JavaScript & TypeScript      | NextJS                      | ExpressJS        | MySQL                 | IoT system integration                        | Git/GitHub (Teamwork branches)    |
 | Python                       | ReactJS                     | NestJS           | MongoDB               | Basic machine learning & computer vision      | Docker                            |
@@ -28,22 +28,23 @@ Mình khát khao được học hỏi, cọ xát với các dự án ở những
 |                              | Material UI                 |                  |                       |                                               |                                   |
 |                              | Shadcn UI                   |                  |                       |                                               |                                   |
 
-
 ---
 
-## 🚀 Một số dự án tiêu biểu
+## 🚀 Featured Projects
 
 ### 1. Smart Fruit Classification and Monitoring System (FruitsFlow)
-<i>Graduation thesis | 03 - 06/2025</i>
+<i>Graduation Thesis | 03 - 06/2025</i>
 
-**Mô tả:**  
-Tech: NextJS, NestJS, TypeORM, Machine Learning (MobileNetV2), Computer Vision (OpenCV), SocketIO.  
-Challenge: Need a website, IoT system and AI model to classify fruit by type and condition.  
-Solution: Create model to classify fruits and use it in Raspberry Pi. Communicate the results via a management website with SocketIO.  
-Result: Self-researched and successfully deployed machine learning model. Accurate classification system (90%), intuitive website, classification data updated in real time.  
-Repository: https://github.com/HauDNT/QuanLyNVThuVien 
+**Description:**  
+- **Technologies:** NextJS, NestJS, TypeORM, Machine Learning (MobileNetV2), Computer Vision (OpenCV), SocketIO.  
+- **Challenge:** Needed a website, IoT system, and AI model to classify fruits by type and condition.  
+- **Solution:** Developed a custom machine learning model for fruit classification and deployed it on Raspberry Pi, with real-time communication to a management website via SocketIO.  
+- **Results:**  
+  - Self-researched and successfully deployed a machine learning model with 90% classification accuracy.  
+  - Intuitive website with real-time classification data updates.  
+- **Repository:** [GitHub](https://github.com/HauDNT/QuanLyNVThuVien)
 
-**Hình ảnh:**
+**Images:**
 <p align="center">
   <img src="./images/fruitsflow/iot_3.jpg" alt="Website UI" width="32%" style="border:1px solid #ccc; border-radius:8px;">
   <img src="./images/fruitsflow/website_4.jpg" alt="Web 4" width="32%" style="border:1px solid #ccc; border-radius:8px;">
@@ -52,19 +53,19 @@ Repository: https://github.com/HauDNT/QuanLyNVThuVien
 
 ---
 
-### 2. Hyertech Mobile App (combined with Hytertech smart hydroponic system management)
-<i>Startup project | 06 - 12/2024</i>
+### 2. Hytertech Mobile App (Integrated with Hytertech Smart Hydroponic System)
+<i>Startup Project | 06 - 12/2024</i>
 
-**Mô tả:**  
-Tech: React Native, Laravel, Docker, Internet of Things.  
-Challenge: Users need a mobile application to monitor vegetable status, environmental numbers measured from the Hydroponic.  
-Solution: Create a mobile application that is intuitive, simple, complete and easy to use.  
-Result:  
-+ Can monitor environmental parameters, control devices on the rack (on/off), vegetable rack information and list of installed devices.  
-+ **1st Prize – University Final Round 2024** praised for strong commercialization potential.  
-Github: https://github.com/HauDNT/Hytertech-Mobile-Frontend
+**Description:**  
+- **Technologies:** React Native, Laravel, Docker, Internet of Things.  
+- **Challenge:** Users needed a mobile application to monitor vegetable growth status and environmental data from the hydroponic system.  
+- **Solution:** Built an intuitive, complete, and easy-to-use mobile application.  
+- **Results:**  
+  - Monitor environmental parameters, control devices (on/off), view rack details and device lists.  
+  - **1st Prize – University Final Round 2024**, recognized for strong commercialization potential.  
+- **Repository:** [GitHub](https://github.com/HauDNT/Hytertech-Mobile-Frontend)
 
-**Hình ảnh:**
+**Images:**
 <p align="center">
   <img src="./images/hytertech/Mobile_1.png" alt="Mobile_1" width="15%" style="border-radius:8px;">
   <img src="./images/hytertech/Mobile_2.png" alt="Mobile_2" width="15%" style="border-radius:8px;">
@@ -76,19 +77,19 @@ Github: https://github.com/HauDNT/Hytertech-Mobile-Frontend
 
 ---
 
-### 3. Environmental monitoring system for bird's nest house
+### 3. Environmental Monitoring System for Bird's Nest Houses
 <i>Scientific Research Project | 06/2023 - 04/2024</i>
 
-**Mô tả:**  
-Technology: PHP, Pusher, C++, Internet of Things.  
-Challenge: Users need a website and sensors (stations) to monitor environmental indicators in the birdhouse (Scope of topic: temperature & humidity).  
-Solution: Create a measuring set including necessary sensors and an intuitive website to monitor, report statistics to users at many birdhouses.  
-Results:  
-+ Can monitor environmental parameters, control devices (on/off), information of one or more birdhouses on an online map and a list of installed devices.  
-+ Report environmental condition parameters in real time. Send email alerts when conditions are abnormal.  
-Github: https://github.com/HauDNT/QuanTracNhaYen
+**Description:**  
+- **Technologies:** PHP, Pusher, C++, Internet of Things.  
+- **Challenge:** Needed a website and sensor stations to monitor environmental indicators (temperature & humidity) in bird's nest houses.  
+- **Solution:** Designed a sensor system with an intuitive monitoring website, providing statistics for multiple birdhouses.  
+- **Results:**  
+  - Real-time monitoring of environmental parameters, device control (on/off), and location mapping.  
+  - Email alerts for abnormal conditions.  
+- **Repository:** [GitHub](https://github.com/HauDNT/QuanTracNhaYen)
 
-**Hình ảnh:**
+**Images:**
 <p align="center">
   <img src="./images/nhayen/image_1.png" alt="NhaYen_1" width="15%" style="border-radius:8px;">
   <img src="./images/nhayen/image_2.png" alt="NhaYen_2" width="15%" style="border-radius:8px;">
@@ -100,47 +101,50 @@ Github: https://github.com/HauDNT/QuanTracNhaYen
 
 ---
 
-### 4. Library Management System - Kien Giang Province Library
-<i>Internship project | 06 - 12/2024</i>
+### 4. Library Management System – Kien Giang Province Library
+<i>Internship Project | 06 - 12/2024</i>
 
-**Mô tả:**  
-Tech: ReactJS, ExpressJS, MySQL, Docker.  
-Challenge: The existing library system lacked reporting features and had poor performance.  
-Solution: Created the system with modern web stack and Dockerized it for deployment.  
-Result: Improved search speed by ~40%, and reduced manual work for library staff.  
-Github: https://github.com/HauDNT/QuanLyNVThuVien
+**Description:**  
+- **Technologies:** ReactJS, ExpressJS, MySQL, Docker.  
+- **Challenge:** The existing system lacked reporting features and suffered from poor performance.  
+- **Solution:** Built a modern, Dockerized system for better performance and maintainability.  
+- **Results:**  
+  - Improved search speed by ~40%.  
+  - Reduced manual workload for library staff.  
+- **Repository:** [GitHub](https://github.com/HauDNT/QuanLyNVThuVien)
 
-**Hình ảnh:**
+**Images:**
 <p align="center">
   <img src="./images/library/dashboard.png" alt="Dashboard" width="24%" style="border:1px solid #ccc; border-radius:8px;">
-  <img src="./images/library/bienmuc.png" alt="Danh sách biên mục" width="24%" style="border:1px solid #ccc; border-radius:8px;">
-  <img src="./images/library/taobarcode.png" alt="Tạo mã barcode 128" width="24%" style="border:1px solid #ccc; border-radius:8px;">
-  <img src="./images/library/bangtenmahoa.png" alt="Bảng tên mã hoá sách" width="24%" style="border:1px solid #ccc; border-radius:8px;">
+  <img src="./images/library/bienmuc.png" alt="Catalog List" width="24%" style="border:1px solid #ccc; border-radius:8px;">
+  <img src="./images/library/taobarcode.png" alt="Create Barcode 128" width="24%" style="border:1px solid #ccc; border-radius:8px;">
+  <img src="./images/library/bangtenmahoa.png" alt="Book Code Table" width="24%" style="border:1px solid #ccc; border-radius:8px;">
 </p>
 
 ---
 
 ### 5. Rice Warehouse System with Interactive Map
-<i>Persional project | 07 - 10/2024</i>
+<i>Personal Project | 07 - 10/2024</i>
 
-**Mô tả:**  
-Tech: ReactJS, NestJS, MySQL (TypeORM), Docker, MapboxAPI.  
-Challenge: Users had no visual overview of rice warehouses' locations and stock levels.  
-Solution: Created modern website with integrated maps to visualize inventory management.  
-Result: Quickly manage multiple granary branches on the map.  
-Github: https://github.com/HauDNT/GIS-Project
+**Description:**  
+- **Technologies:** ReactJS, NestJS, MySQL (TypeORM), Docker, MapboxAPI.  
+- **Challenge:** Lack of visual management for rice warehouse locations and stock levels.  
+- **Solution:** Built a modern website with integrated mapping to visualize inventory data.  
+- **Results:**  
+  - Efficient management of multiple warehouse branches via the map interface.  
+- **Repository:** [GitHub](https://github.com/HauDNT/GIS-Project)
 
-**Hình ảnh:**
+**Images:**
 <p align="center">
-  <img src="./images/gis/Map.png" alt="Xem thông tin kho trên bản đồ" width="24%" style="border:1px solid #ccc; border-radius:8px;">
-  <img src="./images/gis/Riceplants.png" alt="Danh sách lúa" width="24%" style="border:1px solid #ccc; border-radius:8px;">
-  <img src="./images/gis/BillOut.png" alt="Danh sách đơn xuất" width="24%" style="border:1px solid #ccc; border-radius:8px;">
-  <img src="./images/gis/WarehouseInfo.png" alt="Quản lý thông tin kho lúa" width="24%" style="border:1px solid #ccc; border-radius:8px;">
+  <img src="./images/gis/Map.png" alt="Warehouse Map" width="24%" style="border:1px solid #ccc; border-radius:8px;">
+  <img src="./images/gis/Riceplants.png" alt="Rice List" width="24%" style="border:1px solid #ccc; border-radius:8px;">
+  <img src="./images/gis/BillOut.png" alt="Export Orders" width="24%" style="border:1px solid #ccc; border-radius:8px;">
+  <img src="./images/gis/WarehouseInfo.png" alt="Warehouse Info" width="24%" style="border:1px solid #ccc; border-radius:8px;">
 </p>
 
 ---
 
-## 🏆 Thành tích
-- Innovation & Entrepreneurship 2024 - 1st Prize (University Level)  
-- Good Grade - Scientific Research Topic 2023 - 2024 [Swallow House Condition Monitoring System]  
-- Good Grade - Scientific Research Topic 2023 - 2024 [Electronic Text Encryption Program Using 5 Popular Algorithms]  
+## 🏆 Achievements
+- **Innovation & Entrepreneurship 2024** – 1st Prize (University Level)  
+- **Good Grade** – Scientific Research Topic 2023-2024 [Swallow House Condition Monitoring System]  
+- **Good Grade** – Scientific Research Topic 2023-2024 [Electronic Text Encryption Program Using 5 Popular Algorithms]  
